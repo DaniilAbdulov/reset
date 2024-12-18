@@ -1,1 +1,1 @@
-const str = `yyffsdfsdf`;
+const str = `yyff`;
