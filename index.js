@@ -1,1 +1,1 @@
-const str = `sdfdsdfssdfgdfhsf sdfsdf`;
+const str = `a`;
